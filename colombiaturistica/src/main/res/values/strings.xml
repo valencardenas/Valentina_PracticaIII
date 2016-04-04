@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">ColombiaTuristica</string>
+    <string name="Ciudad">Armenia</string>
+    <string name="Hoteles">Hoteles</string>
+    <string name="Bares">Bares</string>
+    <string name="Sitios">Sitios Turísticos</string>
+    <string name="Info">Información Demográfica</string>
+    <string name="Acerca">Acerca de ...</string>
+    <string name="Creada">Aplicación creada por:  </string>
+    <string name="Autor">Valentina Cárdenas</string>
+
+    <string name="Hotel1">Hotel Armenia Estelar</string>
+    <string name="telh1">Tel: (6) 746 0099</string>
+    <string name="celh1">Cel: 320 696 9111 </string>
+    <string name="Correoh1">Correo: reservas@armenahotelsa.com</string>
+    <string name="dirh1">Dirección: Carrera 14 N° 8N-00</string>
+    <string name="Webh1">Sitio Web: http://www.armeniahotel.com.co/</string>
+
+    <string name="Hotel2">Hotel Moccawa</string>
+    <string name="telh2">Tel: (6) 735 9929</string>
+    <string name="celh2">Cel: 317 5729275</string>
+    <string name="dirh2">Dirección: Carrera 14 N° 9N–00 </string>
+    <string name="Correoh2">Correo: reservas@allurearoma.com</string>
+    <string name="Webh2">Sitio Web: http://allurearomamocawahotel.com.co/</string>
+
+    <string name="Hotel3">Hotel Zuldemayda</string>
+    <string name="telh3">Tel: (6) 7410580</string>
+    <string name="celh3">Cel: 3206689095</string>
+    <string name="dirh3">Dirección: Calle 20 N° 15-38</string>
+    <string name="Correoh3">Correo: gerencia@hotelzuldemayda.co</string>
+    <string name="Webh3">Sitio Web: http://hotelzuldemayda.co/online/</string>
+
+
+    <string name="Bar1">Cirano</string>
+    <string name="telb1">Tel: 7359290</string>
+    <string name="celb1">Cel: 3113415720</string>
+    <string name="dirb1">Dirección: Calle 22N N°15-25</string>
+    <string name="horariob1">Abierto de Martes a Domingo 5:00pm a 2:00am</string>
+
+    <string name="Bar2">Mariajuana Bar</string>
+    <string name="celb2">Cel: 3104210952</string>
+    <string name="dirb2">Dirección: Carrera 14 N° 19N-46. CC Portal del Quindío</string>
+    <string name="Webb2">Sitio Web: http://www.mariajuanabar.com/</string>
+    <string name="horariob2">Abierto de Martes a Domingo de 12:00pm a 3:00 am</string>
+
+    <string name="Bar3">The city PUB</string>
+    <string name="telb3">Tel: (6) 7450002</string>
+    <string name="celb3">Cel: 3207871047</string>
+    <string name="dirb3">Dirección: Avenida Centenario N°19-60</string>
+    <string name="horariob3">Abierto de Martes a Domingo de 4:00pm a 2:00 am</string>
+
+    <string name="sitio1">Museo del Oro Quimbaya</string>
+    <string name="tels1">Tel: (6) 7498169 ext. 6070</string>
+    <string name="dirs1">Dirección: Carrera 19 N° 40N-80</string>
+    <string name="horarios1">Abierto de Martes a Domingo de 9:00am a 5:00pm</string>
+
+    <string name="sitio2">Parque de la Vida</string>
+    <string name="tels2">Tel: (6) 742817</string>
+    <string name="dirs2">Dirección: Av. Bolívar Cll 6N</string>
+    <string name="horarios2">Abierto todos los días de 8:00am a 6:00pm</string>
+
+
+    <string name="sitio3">Parque Nacional de la Acuicultura y Pesca Deportiva</string>
+    <string name="tels3">Tel: (6) 7479425</string>
+    <string name="cels3">Cel: 310 4220596</string>
+    <string name="dirs3">Dirección: A 200 m. de la glorieta del Club Campestre. Vía Armenia - El Caimo</string>
+    <string name="horarios3">Abierto todos los días de 8:00 am  a 6:00 pm</string>
+
+    <string name="Demografia">Demografía según censo 2005</string>
+
+    <string name="Pobla">Población Total: 280.930 habitantes.</string>
+    <string name="Cabecera">Población Urbana: 273.114 habitantes.</string>
+    <string name="Resto">Población Rural: 7.816 habtantes.</string>
+
+    <string name="publi">Armenia municipio colombiano, capital del departamento del uindio</string>
+
+
+</resources>

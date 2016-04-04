@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ColombiaTuristica</string>
+    <string name="Ciudad">Armenia</string>
+    <string name="Hoteles">Hotels</string>
+    <string name="Bares">Bars</string>
+    <string name="Sitios">Tourist sites</string>
+    <string name="Info">demographic information</string>
+    <string name="Acerca">About...</string>
+    <string name="Creada">created by:  </string>
+    <string name="Autor">Valentina Cárdenas</string>
+
+    <string name="Hotel1">Hotel Armenia Estelar</string>
+    <string name="telh1">Tel: (6) 746 0099</string>
+    <string name="celh1">Cel: 320 696 9111 </string>
+    <string name="Correoh1">Mail: reservas@armenahotelsa.com</string>
+    <string name="dirh1">Address: Carrera 14 N° 8N-00</string>
+    <string name="Webh1">Website: http://www.armeniahotel.com.co/</string>
+
+    <string name="Hotel2">Hotel Moccawa</string>
+    <string name="telh2">Tel: (6) 735 9929</string>
+    <string name="celh2">Cel: 317 5729275</string>
+    <string name="dirh2">Address: Carrera 14 N° 9N–00 </string>
+    <string name="Correoh2">Mail: reservas@allurearoma.com</string>
+    <string name="Webh2">Website: http://allurearomamocawahotel.com.co/</string>
+
+    <string name="Hotel3">Hotel Zuldemayda</string>
+    <string name="telh3">Tel: (6) 7410580</string>
+    <string name="celh3">Cel: 3206689095</string>
+    <string name="dirh3">Address: Calle 20 N° 15-38</string>
+    <string name="Correoh3">Mail: gerencia@hotelzuldemayda.co</string>
+    <string name="Webh3">Website: http://hotelzuldemayda.co/online/</string>
+
+
+    <string name="Bar1">Cirano</string>
+    <string name="telb1">Tel: 7359290</string>
+    <string name="celb1">Cel: 3113415720</string>
+    <string name="dirb1">Address: Calle 22N N°15-25</string>
+    <string name="horariob1">open Tuesday through Sunday from 5:00pm to 2:00 am</string>
+
+    <string name="Bar2">Mariajuana Bar</string>
+    <string name="celb2">Cel: 3104210952</string>
+    <string name="dirb2">Address: Carrera 14 N° 19N-46. CC Portal del Quindío</string>
+    <string name="Webb2">Website: http://www.mariajuanabar.com/</string>
+    <string name="horariob2">open Tuesday through Sunday from 8:00 pm to 3:00 am</string>
+
+    <string name="Bar3">The city PUB</string>
+    <string name="telb3">Tel: (6) 7450002</string>
+    <string name="celb3">Cel: 3207871047</string>
+    <string name="dirb3">Address: Avenida Centenario N°19-60</string>
+    <string name="horariob3">open Tuesday through Sunday from 4:00pm to 2:00 am</string>
+
+    <string name="sitio1">Museo del Oro Quimbaya</string>
+    <string name="tels1">Tel: (6) 7498169 ext. 6070</string>
+    <string name="dirs1">Address: Carrera 19 N° 40N-80</string>
+    <string name="horarios1">open Tuesday through Sunday from 9:00 am to 5:00 pm</string>
+
+    <string name="sitio2">Parque de la Vida</string>
+    <string name="tels2">Tel: (6) 742817</string>
+    <string name="dirs2">Address: Av. Bolívar Cll 6N</string>
+    <string name="horarios2">open daily from 8:00 am to 6:00 pm</string>
+
+
+    <string name="sitio3">Parque Nacional de la Acuicultura y Pesca Deportiva</string>
+    <string name="tels3">Tel: (6) 7479425</string>
+    <string name="cels3">Cel: 310 4220596</string>
+    <string name="dirs3">Address: A 200 m. de la glorieta del Club Campestre. Vía Armenia - El Caimo</string>
+    <string name="horarios3">open daily from 8:00 am to 6:00 pm</string>
+
+    <string name="Demografia">according to 2005 census demographic</string>
+
+    <string name="Pobla">Total population: 280.930 inhabitants.</string>
+    <string name="Cabecera">Urban population: 273.114 inhabitants.</string>
+    <string name="Resto">Rural population: 7.816 inhabitants.</string>
+
+    <string name="publi">Armenia is Colombian municipality, capital of Quindio department</string>
+</resources>

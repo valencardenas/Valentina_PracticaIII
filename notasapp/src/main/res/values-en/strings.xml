@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NotasAPP</string>
+    <string name="expo">Exposition</string>
+    <string name="pract">Practices</string>
+    <string name="proye">Project</string>
+    <string name="calc">Calculate</string>
+    <string name="notaf">Final grade</string>
+    <string name="title_activity_settings">settingsActivity</string>
+    <string name="guardar">Save</string>
+    <string name="Porce">Percentages(%)</string>
+    <string name="config">Senttings</string>
+    <string name="Acerca">About...</string>
+</resources>

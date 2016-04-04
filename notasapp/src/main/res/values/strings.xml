@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">NotasAPP</string>
+    <string name="expo">Exposición</string>
+    <string name="pract">Prácticas</string>
+    <string name="proye">Proyecto</string>
+    <string name="calc">Calcular</string>
+    <string name="notaf">Nota final</string>
+    <string name="title_activity_settings">settingsActivity</string>
+    <string name="guardar">Guardar</string>
+    <string name="Porce">Porcentajes(%)</string>
+    <string name="config">Configurar</string>
+    <string name="Acerca">Acerca de ...</string>
+    <string name="limpiar">Limpiar</string>
+
+</resources>
+
